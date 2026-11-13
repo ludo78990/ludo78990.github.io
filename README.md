@@ -23,6 +23,10 @@ Personal index of public web properties operated by the owner.
 - **Support-Tablette-Voiture** — Vehicle tablet mounts guide: <https://www.support-tablette-voiture.com/>
 - **Support-Tablette.net** — Generic tablet mounting resource: <https://www.support-tablette.net/>
 
+- **La Facturation** — French e-invoicing software comparisons: <https://la-facturation.fr/>
+- **ClimDevis** — Air conditioning prices and quotes, Île-de-France: <https://climdevis.fr/>
+- **Kiosky** — Voice AI agent for shop windows and front desks: <https://kiosky.ai/>
+
 ## About
 
 Operator: Ludovic L. — SEO and web entrepreneur based in Yvelines, France.
