@@ -1,6 +1,6 @@
 # Web Properties
 
-Personal index of public web properties operated by the owner.
+Index of public web properties.
 
 ## Online Reading Libraries (18+)
 
@@ -29,7 +29,6 @@ Personal index of public web properties operated by the owner.
 
 ## About
 
-Operator: Ludovic L. — SEO and web entrepreneur based in Yvelines, France.
 
 Each property is independently operated and updated. Adult-themed sites are reserved for legal-age readers (18+).
 
